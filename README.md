@@ -35,7 +35,7 @@
   </div>
 
   ##
-   <img align="right" width="300" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif">
+   <img align="right" width="300" src="https://media.giphy.com/media/muGYyrWwxOOMo/giphy.gif">
  
 <div> 
 
