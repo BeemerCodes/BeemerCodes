@@ -1,19 +1,16 @@
-<div style="display: inline_block">
+<div>
 <h1>👋 Hi, I’m @BeemerCodes</h1>
 <p>👀 Interesses do momento: Desenvolvimento, Linux e PenTest.</p>
 <p>🌱 Estudando ultimamente: Linux, PenTest e Hacking em geral.</p>
-<p>💞️ Procuro colaborar em: Projetos que gosto como projetos de estudos.</p>
+<p>💞️ Procuro colaborar em: Projetos que gosto, projetos de estudos por exemplo.</p>
 </div>
-<div style="display: inline_block">
-<img width="300px" align='right' src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif">
-</div>
-
-
+</br></br>
 <div align="center">
   <a href="https://github.com/BeemerCodes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeemerCodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeemerCodes&layout=compact&langs_count=7&theme=tokyonight"/> 
 </div>
+  </br></br>
 
 <div style="display: inline-block"><br>
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
@@ -35,11 +32,10 @@
   <img align="center" alt="jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
   <img align="center" alt="dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
- 
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://github.com/BeemerCodes/Aulas-Soltas/blob/master/Pixel%20arts/beemer.png?width=676&height=676">
-</div>
+  </div>
 
   ##
+   <img align="right" width="300" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif">
  
 <div> 
 
