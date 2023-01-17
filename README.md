@@ -11,6 +11,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeemerCodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeemerCodes&layout=compact&langs_count=7&theme=tokyonight"/> 
 </div>
+
+<div align="center">
+  
+![Analises](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeemerCOdes&theme=tokyonight)
+  
+</div>
 </br></br>
 
 <div style="display: inline-block"><br>
