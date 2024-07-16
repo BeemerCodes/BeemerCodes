@@ -1,8 +1,8 @@
 
 <div>
-<h1>👋 Hi, I’m Beemer</h1>
-<p>👀 Interesses do momento: Desenvolvimento, Linux e PenTest.</p>
-<p>💞️ Procuro colaborar em: Projetos que gosto, projetos de estudos por exemplo.</p>
+<h1>Hi, I’m Beemer</h1>
+<p>Interesses do momento: Desenvolvimento, Linux e PenTest.</p>
+<p>Procuro colaborar em: Projetos que gosto, projetos de estudos.</p>
 </div>
 </br></br>
 <div align="center">
@@ -20,7 +20,6 @@
 
 <div style="display: inline-block"><br>
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="adonis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="itstux?" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
