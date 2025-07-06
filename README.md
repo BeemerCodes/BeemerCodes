@@ -35,7 +35,7 @@ Seja bem-vindo ao meu cantinho do código!
 🐍 **Python** 
 🐧 **Linux**   
 🌱 **Node.js**   
-
+☕ **Java**
 ---
 
 <div align="center">
