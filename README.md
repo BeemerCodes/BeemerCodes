@@ -21,7 +21,7 @@
 <h3>📈 GitHub Stats</h3>
 
 <div align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=BeemerCodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=BeemerCodes&show_icons=true&theme=githubdark&include_all_commits=true&count_private=true" />
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeemerCodes&layout=compact&langs_count=7&theme=tokyonight" />
 </div>  
 
