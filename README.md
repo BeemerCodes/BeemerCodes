@@ -20,10 +20,14 @@
 
 <h3>📈 GitHub Stats</h3>
 
+<br clear="both">
+
 <div align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=BeemerCodes&show_icons=true&theme=githubdark&include_all_commits=true&count_private=true" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeemerCodes&layout=compact&langs_count=7&theme=tokyonight" />
-</div>  
+  <img src="https://github-readme-stats.vercel.app/api?username=beemercodes&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=beemercodes&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beemercodes&radius=14&theme=tokyo-night&area=true&order=5&custom_title=Contribui%C3%A7%C3%B5es&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=beemercodes&theme=nord&column=3&row=1&margin-w=45&margin-h=0&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
 
 <h2></h2>
 
@@ -37,44 +41,39 @@
 
 <h3>⚙️ Tecnologias que uso no dia a dia</h3>
 
-<table>
-  <tr>
-    <td>🟡 <strong>JavaScript</strong></td>
-    <td>🐍 <strong>Python</strong></td>
-    <td>🐧 <strong>Linux</strong></td>
-    <td>🌱 <strong>Node.js</strong></td>
-    <td>☕ <strong>Java</strong></td>
-  </tr>
-</table>
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="21" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+</div>
 <h2></h2>
+
+<img src="https://raw.githubusercontent.com/beemercodes/beemercodes/output/snake.svg" alt="Snake animation" />
+
 <h3 align="center">🌍 Onde me encontrar</h3>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.instagram.com/pedrolimakkkj/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-        <br/>Instagram
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.twitch.tv/beemerlives" target="_blank">
-        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
-        <br/>Twitch
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:detonainyoutub@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-        <br/>E-mail
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/pedro-lima-dev/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-        <br/>LinkedIn
-      </a>
-    </td>
-  </tr>
-</table>
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-lima-dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.twitch.tv/beemerlives" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="65" height="35" alt="twitch logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="65" height="35" alt="youtube logo"  />
+  <a href="https://tryhackme.com/p/BeemerCodes" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="65" height="35" alt="tryhackme logo"  />
+  </a>
+</div>
 
