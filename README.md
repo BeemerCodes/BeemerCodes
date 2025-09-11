@@ -62,18 +62,17 @@
 
 <h3 align="center">🌍 Onde me encontrar</h3>
 
-<br clear="both">
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/pedro-lima-dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/pedro-lima-dev/" target="_blank" style="text-decoration: none; outline: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://www.twitch.tv/beemerlives" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="65" height="35" alt="twitch logo"  />
+  <a href="https://www.twitch.tv/beemerlives" target="_blank" style="text-decoration: none; outline: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="65" height="35" alt="twitch logo" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="65" height="35" alt="youtube logo"  />
-  <a href="https://tryhackme.com/p/BeemerCodes" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="65" height="35" alt="tryhackme logo"  />
+  <a href="https://www.youtube.com/@BeemerLives" target="_blank" style="text-decoration: none; outline: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="65" height="35" alt="youtube logo" />
+  </a>
+  <a href="https://tryhackme.com/p/BeemerCodes" target="_blank" style="text-decoration: none; outline: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="65" height="35" alt="tryhackme logo" />
   </a>
 </div>
-
