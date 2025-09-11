@@ -37,6 +37,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeemerCodes&theme=tokyonight" alt="Beemer Contribution Stats"/>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/beemercodes/beemercodes/output/snake.svg" alt="Snake animation" />
+</div>
+
+
 <hr>
 
 <h3>⚙️ Tecnologias que uso no dia a dia</h3>
@@ -58,21 +63,21 @@
 </div>
 <h2></h2>
 
-<img src="https://raw.githubusercontent.com/beemercodes/beemercodes/output/snake.svg" alt="Snake animation" />
-
 <h3 align="center">🌍 Onde me encontrar</h3>
 
+<br clear="both">
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/pedro-lima-dev/" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="35" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/pedro-lima-dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="linkedin logo"  />
   </a>
-  <a href="https://www.twitch.tv/beemerlives" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="65" height="35" alt="twitch logo" />
+  <a href="https://www.youtube.com/@BeemerLives" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="youtube logo"  />
   </a>
-  <a href="https://www.youtube.com/@BeemerLives" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="65" height="35" alt="youtube logo" />
+  <a href="https://www.twitch.tv/beemerlives" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="twitch logo"  />
   </a>
-  <a href="https://tryhackme.com/p/BeemerCodes" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="65" height="35" alt="tryhackme logo" />
+  <a href="https://tryhackme.com/p/BeemerCodes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="tryhackme logo"  />
   </a>
 </div>
