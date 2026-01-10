@@ -23,10 +23,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beemercodes&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=beemercodes&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=beemercodes&radius=14&theme=tokyo-night&area=true&order=5&custom_title=Contribui%C3%A7%C3%B5es&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=beemercodes&theme=nord&column=3&row=1&margin-w=45&margin-h=0&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 <h2></h2>
