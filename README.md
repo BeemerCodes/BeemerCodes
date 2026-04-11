@@ -11,7 +11,7 @@
 
 <ul>
   <li>🐧 Apaixonado por <strong>Linux</strong></li>
-  <li>💻 Desenvolvedor sempre explorando novas tecnologias</li>
+  <li>💻 Sempre explorando novas tecnologias</li>
   <li>🔐 Estudante de <strong>Pentest</strong></li>
   <li>🎯 Em busca de <strong>desafios</strong> que impulsionem meu crescimento</li>
 </ul>
