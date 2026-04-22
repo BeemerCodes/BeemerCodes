@@ -1,4 +1,4 @@
-<h1 align="center">🤙 Olá, mundo! Eu sou o Beemer!</h1>
+<h1 align="center">🤙 Olá, mundo!</h1>
 
 <div align="center">
   <img width="380" src="https://media.giphy.com/media/muGYyrWwxOOMo/giphy.gif" alt="Coding gif">
